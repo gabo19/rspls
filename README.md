@@ -26,3 +26,6 @@ The rules of Rock-paper-scissors-lizard-Spock are:
 There are ten possible pairings of the five gestures; each gesture beats two of the other gestures and is beaten by the remaining two.
 
 
+---
+**Problems
+- Find a way to quit imediatily if the player types 'q'/'quit'.
